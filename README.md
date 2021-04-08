@@ -1,6 +1,6 @@
 # Code_Challenge
 
-The script tempus_vcf_annotator_final.py can be used to annotate a given VCF file with the following information:
+The script vcf_annotator_final.py can be used to annotate a given VCF file with the following information:
 
 * type of variation
 * the predicted consequence of the variation from ExAC
