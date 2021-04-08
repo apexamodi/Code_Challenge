@@ -3,11 +3,11 @@
 The script tempus_vcf_annotator_final.py can be used to annotate a given VCF file with the following information:
 
 * type of variation
-2) the predicted consequence of the variation from ExAC
-c. depth of sequence coverage at the variation site
-d. number of reads supporting the variant
-e. percentage of reads supporting the variant versus those supporting reference reads 
-f. allele frequency of variant from ExAC
+* the predicted consequence of the variation from ExAC
+* depth of sequence coverage at the variation site
+* number of reads supporting the variant
+* percentage of reads supporting the variant versus those supporting reference reads 
+* allele frequency of variant from ExAC
 
 The script requires you to have python installed and can be run as follows in your terminal. You must provide a vcf file as input as shown: 
 
